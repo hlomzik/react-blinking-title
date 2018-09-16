@@ -1,0 +1,10 @@
+{
+  "main": "index.js",
+  "name": "react-blinking-title",
+  "version": "1.0.0",
+  "description": "Pretty simple component to notify user via the blinking title",
+  "peerDependencies": {
+    "react": "^15"
+  }
+}
+
